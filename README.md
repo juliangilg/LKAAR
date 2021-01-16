@@ -15,3 +15,5 @@ Pleae, if you use this code, cite this [paper](https://www.sciencedirect.com/sci
   year={2021},
   publisher={Elsevier}
 }
+
+{author*} {year}, {title}, {version^}, {publisher|howpublished~}, {prefix}:{identifier#}
