@@ -6,7 +6,7 @@ LKAAR approach to estimate the performance of the sources in scenarios of superv
 
 Pleae, if you use this code, cite this [paper](https://www.sciencedirect.com/science/article/pii/S0925231220316039?casa_token=Of51GiZn1LAAAAAA:xqgvDaBu7C9nDiEZ_DDs1aWvmlB_stG21NYSdQqI38aNBGcN_cagbr8h6hiFC5IPXpq9ftam)
 
-@misc@article{gil2021learning,
+@misc{gil2021learning,
   title={Learning from multiple inconsistent and dependent annotators to support classification tasks},
   author={Gil-Gonzalez, J and Orozco-Gutierrez, A and Alvarez-Meza, A},
   journal={Neurocomputing},
