@@ -41,7 +41,7 @@ for r = 1:R
 end
 
 % We initialize the parameters using a centerd alignment solution
-Ymv = MajorityVotKAAR(X, Y);
+Ymv = MajorityVot(Y);
 mu = Y == repmat(Ymv, 1, R);
 auxmu = sum(mu,2);
 auxmu(auxmu==0)=1;
